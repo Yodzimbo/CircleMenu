@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Projekt\KVMapp\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-plugin-locationlayer\0.2.0-SNAPSHOT\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09db2ccbc678ac8f847e49315602ed2c1d02fe6d">
+        <dex dex="D:\Projekt\KVMapp\app\build\intermediates\pre-dexed\debug\com.mapbox.mapboxsdk-mapbox-android-plugin-locationlayer-0.2.0-SNAPSHOT_e98f6c5e5c7532aff35ae1d1ba01ad4c204f89db.jar" />
+    </item>
+
+</items>
